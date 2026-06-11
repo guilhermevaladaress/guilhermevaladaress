@@ -54,16 +54,32 @@
 
 ---
 
+**GitHub Stats**
+
+<p>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=guilhermevaladaress&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats" 
+  />
+</p>
+
+<p>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevaladaress&layout=compact&langs_count=8&theme=tokyonight" 
+    alt="Top Languages" 
+  />
+</p>
+
 **Contact**
 
 <p>
   <a href="mailto:guilhermevaladares007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-guilhermevaladares007%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
-<p>
+  &nbsp;
   <a href="https://linkedin.com/in/guilhermevaladaresjalles/">
-    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Valadares-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
