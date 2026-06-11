@@ -6,16 +6,6 @@
   Information Systems Student | UNITINS | Full Stack Developer |
 </p>
 
-<p>
-  <a href="mailto:guilhermevaladares007@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/guilhermevaladaresjalles/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 **Frontend**
@@ -76,10 +66,10 @@
 
 <p>
   <a href="mailto:guilhermevaladares007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/guilhermevaladaresjalles/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
