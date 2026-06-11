@@ -3,7 +3,9 @@
 </h2>
 
 <p style="color: #888; font-size: 14px; margin-top: 0;">
-  Information Systems Student
+  Information Systems Student | UNITINS | Full Stack Developer |
+</p>
+
 <p>
   <a href="mailto:guilhermevaladares007@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
@@ -21,6 +23,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="36" alt="Angular" title="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" title="Next.js" />
 </p>
 
 **Backend**
@@ -47,4 +50,20 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" />
+</p>
+
+---
+
+**Contact**
+
+<p>
+  <a href="mailto:guilhermevaladares007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-guilhermevaladares007%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/guilhermevaladaresjalles/">
+    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Valadares-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
