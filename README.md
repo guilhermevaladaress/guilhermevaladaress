@@ -3,7 +3,7 @@
 </h2>
 
 <p style="color: #888; font-size: 14px; margin-top: 0;">
-  Information Systems Student | UNITINS | Full Stack Developer |
+  Information Systems Student | UNITINS | Full Stack Developer 
 </p>
 
 ---
@@ -47,29 +47,18 @@
 **GitHub Stats**
 
 <p>
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermevaladaress&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats" 
-  />
-</p>
-
-<p>
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevaladaress&layout=compact&langs_count=8&theme=tokyonight" 
-    alt="Top Languages" 
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermevaladaress&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevaladaress&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 **Contact**
 
 <p>
   <a href="mailto:guilhermevaladares007@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/guilhermevaladaresjalles/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
